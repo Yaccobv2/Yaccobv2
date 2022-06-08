@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yaccobv2
-- 👀 I’m interested in computer vision, robotics, AI and electronics.
+- 👀 I’m interested in computer vision, robotics, electronics and autonomous vehicles.
 - 🌱 I’m currently learning cpp, ros2 and computer vision.
 - 📫 How to reach me jakub.codogni@gmail.com
 
