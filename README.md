@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaccobv2
-- 👀 I’m interested in computer vision, iot, swarm robotics, AI and gamedev.
-- 🌱 I’m currently learning computer vision.
+- 👀 I’m interested in computer vision, robotics, AI and electronics.
+- 🌱 I’m currently learning cpp, ros2 and computer vision.
 - 📫 How to reach me jakub.codogni@gmail.com
 
 <!---
